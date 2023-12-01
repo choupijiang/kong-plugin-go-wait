@@ -9,6 +9,6 @@
     "screenshot": "node screenshot.js"
   },
   "dependencies": {
-    "puppeteer": "^8.0.0"
+    "puppeteer": "^18.2.0"
   }
 }
